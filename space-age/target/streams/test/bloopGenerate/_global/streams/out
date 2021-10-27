@@ -1,0 +1,4 @@
+[debug] [space-age-test] Classpath dependencies List()
+[debug] [space-age-test] Dependencies from configurations List(space-age)
+[debug] Bloop wrote the configuration of project 'space-age-test' to '/home/nghiaht7/snap/exercism/5/exercism/scala/space-age/.bloop/space-age-test.json'
+[success] Generated .bloop/space-age-test.json
