@@ -1,0 +1,2 @@
+[debug] Created transactional ClassFileManager with tempDir = /home/nghiaht7/snap/exercism/5/exercism/scala/leap/project/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /home/nghiaht7/snap/exercism/5/exercism/scala/leap/project/project/target/scala-2.12/sbt-1.0/classes.bak

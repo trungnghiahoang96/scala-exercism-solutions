@@ -1,0 +1,8 @@
+*/.bloop
+*/.vscode
+*/.metals
+*/.scalafmt.conf
+*/.idea
+*/.bsp
+*/.exercism
+
